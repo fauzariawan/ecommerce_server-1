@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Colver Honey",
+    "image_url": "https://s0.bukalapak.com/img/56143733041/large/Clover_Honey_HDI_1_Kg.jpg",
+    "price": 590000,
+    "stock": 10
+  },
+  {
+    "name": "Royal Jelly",
+    "image_url": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-1590044/hdi_hdi-royal-jelly-suplemen-kesehatan_full02.jpg",
+    "price": 510000,
+    "stock": 5
+  },
+  {
+    "name": "Propoelix",
+    "image_url": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//91/MTA-6520293/hdi_hdi_propelix_suplemen_kesehatan_-60_vegecaps-_200_mg-_full01_mj9xfq3w.jpg",
+    "price": 390000,
+    "stock": 7
+  },
+  {
+    "name": "Bee Propolis",
+    "image_url": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-1601925/hdi_bee-propolis_full02.jpg",
+    "price": 280000,
+    "stock": 3
+  }
+]
